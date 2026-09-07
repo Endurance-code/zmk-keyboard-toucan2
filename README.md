@@ -11,15 +11,20 @@
 
 # custom key config
 
-I fork the original Toucan2 github repo to my own account to customize.
-I use https://nickcoutsos.github.io/keymap-editor/ for the keymap editor, its a super fast way to edit behaviors and keymapping.
-I like auto shift so, I make a new behavior and title it 'AS', I like 300ms for the hold function to work.
-Then I like QWERTY, so I change each key from 'KP' to 'AS', with the hold key as LSHIFT and the letter, and the tap being just the letter.
+I forked the original Toucan2 github repo to my own account to customize.
+
+I use https://nickcoutsos.github.io/keymap-editor/ for the keymap editor, its a super fast way to edit behaviors and key mapping.
+
+I like auto shift so, I made a new behavior and titled it 'AS', I like 300ms for the hold function to work.
+
+I like QWERTY, so I changed each key from 'KP' to 'AS' to the QWERTY standar, with the hold key as LSHIFT and then associated letter, and the tap being just the lower case letter.
 When done, save in the keymap editor to commit.
 
-After customization, the Trackpad commands can be commented out or left in for your desired config.
+After customization, the Trackpad custom commands can be commented out or left in for your desired config.
 
-Lastly, go to github actions, and download the last runtime's firmware at the bottom, plug in toucan, if Seed, double press the button after plug in and can access its file. Drag in the Left or Right file to the appropriate keyboard, after its done and shutsoff, the keyboard is ready for use, 
+Lastly, go to github actions, and download the last runtime's firmware at the bottom, plug in toucan, if Seed, double press the button after plug in and you gain access to its file. Drag in the Left or Right file to the appropriate keyboard, after its done downloading and disappears, the keyboard is ready for use.
+
+# placeholder for screenshots.
 
 # License
 
