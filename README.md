@@ -15,7 +15,7 @@ I forked the original Toucan2 github repo to my own account to customize.
 
 I use https://nickcoutsos.github.io/keymap-editor/ for the keymap editor, its a super fast way to edit behaviors and key mapping.
 
-I like auto shift so, I made a new behavior and titled it 'AS', I like 300ms for the hold function to work.
+I like auto shift so, I made a new behavior 'hold tap' and titled it 'AS', I like 300ms for the hold function to work.
 
 I like QWERTY, so I changed each key from 'KP' to 'AS' to the QWERTY standar, with the hold key as LSHIFT and then associated letter, and the tap being just the lower case letter.
 When done, save in the keymap editor to commit.
