@@ -44,14 +44,14 @@
         nav {
             display-name = "NAV";
             bindings = <
-&trans  &kp EXCL  &kp AT  &kp POUND  &kp DLLR  &kp PRCNT  &bt BT_CLR  &trans  &kp UP_ARROW  &trans  &bt BT_SEL 0  &trans  &trans  &kp CARET  &kp AMPS  &kp STAR  &kp LPAR  &kp RPAR  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT  &bt BT_SEL 1  &trans  &trans  &kp TILDE  &kp FSLH  &AS LS(BSLH) BSLH  &AS LS(SEMI) SEMI  &kp TAB  &trans  &trans  &trans  &trans  &bt BT_SEL 2  &trans  &kp LEFT_GUI  &kp ESC  &kp SPACE  &kp RET  &trans  &kp BACKSPACE
+&trans  &kp EXCL  &kp AT  &kp POUND  &kp DLLR  &kp PRCNT  &bt BT_CLR  &trans  &kp UP_ARROW  &trans  &bt BT_SEL 0  &trans  &trans  &kp CARET  &kp AMPS  &kp STAR  &kp LPAR  &kp RPAR  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT  &bt BT_SEL 1  &trans  &trans  &kp TILDE  &kp FSLH  &AS LS(BSLH) BSLH  &AS LS(SEMI) SEMI  &kp TAB  &trans  &trans  &trans  &trans  &bt BT_SEL 2  &trans  &kp LA(TAB)  &kp ESC  &kp SPACE  &kp RET  &trans  &kp BACKSPACE
             >;
         };
 
         sym {
             display-name = "SYM";
             bindings = <
-&trans  &mkp LCLK  &mkp RCLK  &trans  &kp LEFT_SHIFT  &kp LEFT_ALT  &kp MINUS  &kp N7  &kp N8  &kp N9  &kp EQUAL  &trans  &trans  &AS LS(FSLH) FSLH  &AS LS(BSLH) BSLH  &AS LS(LEFT_BRACKET) LEFT_BRACKET  &AS LS(RBKT) RBKT  &AS LS(MINUS) MINUS  &kp PLUS  &kp N4  &kp N5  &kp N6  &kp FSLH  &trans  &trans  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp DOT  &kp N1  &kp N2  &kp N3  &kp ASTRK  &trans  &kp LGUI  &trans  &kp SPACE  &kp RET  &kp N0  &kp RALT
+&trans  &mkp LCLK  &mkp RCLK  &trans  &kp LEFT_SHIFT  &kp LEFT_ALT  &kp MINUS  &kp N7  &kp N8  &kp N9  &kp EQUAL  &trans  &trans  &AS LS(FSLH) FSLH  &AS LS(BSLH) BSLH  &AS LS(LEFT_BRACKET) LEFT_BRACKET  &AS LS(RBKT) RBKT  &AS LS(MINUS) MINUS  &kp PLUS  &kp N4  &kp N5  &kp N6  &kp FSLH  &trans  &trans  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp DOT  &kp N1  &kp N2  &kp N3  &kp ASTRK  &trans  &kp LA(TAB)  &trans  &kp SPACE  &kp RET  &kp N0  &kp BACKSPACE
             >;
         };
 
